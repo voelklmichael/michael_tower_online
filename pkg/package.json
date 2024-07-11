@@ -1,0 +1,9 @@
+{
+  "name": "rust_lib_michael_tower_flutter_ui",
+  "version": "0.1.0",
+  "files": [
+    "rust_lib_michael_tower_flutter_ui_bg.wasm",
+    "rust_lib_michael_tower_flutter_ui.js"
+  ],
+  "browser": "rust_lib_michael_tower_flutter_ui.js"
+}
